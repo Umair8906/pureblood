@@ -25,7 +25,7 @@
 
 > Any Python Version.
 ```
-$ git clone https://github.com/cr4shcod3/pureblood
+$ git clone https://github.com/Umair8906/pureblood
 
 $ cd pureblood
 
