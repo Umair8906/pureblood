@@ -1,4 +1,11 @@
 
+
+FOR ANY HELP AND ANY ISSUE CONTACT TO WHATSAPP GROUP
+
+https://chat.whatsapp.com/CFmQT9KVsRI3e3XkcZeAF7
+
+
+
 # Pure Blood v1
 
 > A Penetration Testing Framework created for Hackers / Pentester / Bug Hunter
